@@ -1,0 +1,11 @@
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\bin\Debug\netcoreapp3.1\AidatTakip.exe
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\bin\Debug\netcoreapp3.1\AidatTakip.deps.json
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\bin\Debug\netcoreapp3.1\AidatTakip.runtimeconfig.json
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\bin\Debug\netcoreapp3.1\AidatTakip.runtimeconfig.dev.json
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\bin\Debug\netcoreapp3.1\AidatTakip.dll
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\bin\Debug\netcoreapp3.1\AidatTakip.pdb
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\obj\Debug\netcoreapp3.1\AidatTakip.csprojAssemblyReference.cache
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\obj\Debug\netcoreapp3.1\AidatTakip.AssemblyInfoInputs.cache
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\obj\Debug\netcoreapp3.1\AidatTakip.AssemblyInfo.cs
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\obj\Debug\netcoreapp3.1\AidatTakip.dll
+C:\Users\aaa\source\repos\AidatTakip\AidatTakip\obj\Debug\netcoreapp3.1\AidatTakip.pdb
